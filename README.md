@@ -2,6 +2,13 @@
 
 **Collection of PHP interfaces and traits**
 
+## Installation
+
+```bash
+$ composer require filmtools/exposureseries
+```
+
+
 ## Interfaces
 
 - **DensitiesProviderInterface**
