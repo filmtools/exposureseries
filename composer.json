@@ -1,0 +1,26 @@
+{
+  "name": "filmtools/exposureseries",
+  "description": "PHP interfaces and traits for exposure 'zones' and film densities",
+  "license": "CC BY-SA 3.0",
+
+	"autoload": {
+		"psr-4": {
+			"FilmTools\\ExposureSeries\\": "src/"
+		}
+	},
+  "autoload-dev": {
+    "psr-4": {
+      "Tests\\": "tests/"
+    }
+  },
+
+  "require": {
+
+  },
+
+  "require-dev": {
+    "phpunit/phpunit": "^5.0|^6.0"
+  }
+
+
+}
