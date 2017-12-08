@@ -2,6 +2,8 @@
 
 **Collection of PHP interfaces and traits**
 
+[![Build Status](https://travis-ci.org/filmtools/exposureseries?branch=master)](https://travis-ci.org/filmtools/exposureseries)
+
 ## Installation
 
 ```bash
