@@ -1,4 +1,10 @@
-<phpunit bootstrap="vendor/autoload.php">
+<phpunit colors="true"
+		stopOnFailure="true"
+		syntaxCheck="true"
+		bootstrap="vendor/autoload.php"
+		beStrictAboutCoversAnnotation="true"
+		verbose="true">
+
     <testsuites>
         <testsuite name="TestSuite">
             <directory>tests</directory>
