@@ -2,7 +2,7 @@
 
 **Collection of PHP interfaces and traits**
 
-[![Build Status](https://travis-ci.org/filmtools/exposureseries.svg?branch= master)](https://travis-ci.org/filmtools/exposureseries)
+[![Build Status](https://travis-ci.org/filmtools/exposureseries.svg?branch=master)](https://travis-ci.org/filmtools/exposureseries)
 
 ## Installation
 
