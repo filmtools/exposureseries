@@ -7,6 +7,6 @@ interface ZonesAwareInterface extends ZonesProviderInterface
     /**
      * @param array|Traversable $densities
      */
-    public function setZones( $zones );
+    public function setZones($zones);
 
 }
